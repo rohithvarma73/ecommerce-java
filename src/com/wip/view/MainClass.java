@@ -12,7 +12,7 @@ public class MainClass {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Welcome to Ecom - App !!");
+        System.out.println("Welcome to Ecommerce - App !!");
 
         // BiPredicate for un and pass
         BiPredicate<String, String> pr = (un, pwd) -> {
